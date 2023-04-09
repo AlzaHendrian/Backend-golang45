@@ -1,0 +1,5 @@
+# go clean arcitecture :
+# 1. Entities
+# 2. Usecase
+# 3. Controller
+# 4. Framework dan Driver
